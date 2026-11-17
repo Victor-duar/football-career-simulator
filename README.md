@@ -54,7 +54,7 @@ while True:
     else:
         print("Escolha invalida, tente novamente.")
 
-print("Voce ira para o seu primeiro jogo")
+print("Voce irá para o seu primeiro jogo")
 
 print("Minuto 54 - O jogo esta empatado, voce tem a chance de fazer o gol da vitoria")
 
